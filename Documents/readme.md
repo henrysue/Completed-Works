@@ -1,6 +1,6 @@
 # This is the folder containing all documents I have written.
 
-##C ontents: 
+## Contents: 
 
 ### 1. "On Unsustainable Waste at University of California, Irvine"
 *Completed June 1st, 2017, for Earth System Science 182, "Sunstainability II"*
